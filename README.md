@@ -80,5 +80,6 @@ I formuläret fyller du i:
 
 ## Vill du mer? (frivilligt)
 
+- Bonus: din egen design. Styla en enkel sida med din Figma-design från modul 3 och din `tokens.css` från dag 8. Lägg den i en egen mapp i din fork, till exempel `min-design/`. Ingen mall, ingen inlämning, och du kan visa den dag 12 om du vill.
 - Lägg till en egen checklista för portföljen.
 - Kör Lighthouse Performance och skriv ner de tre viktigaste förbättringsförslagen.
