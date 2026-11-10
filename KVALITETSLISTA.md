@@ -34,3 +34,15 @@ Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 - [ ] Commit per ändring, med begripliga meddelanden
 - [ ] Allt är pushat
 - [ ] Live-sidan visar senaste versionen
+
+### Anteckningar
+- Validate ger fel på båda html-filerna
+- Lighthouse ger varning på tillgänglighet och SEO
+
+#### Lighthouse-test FÖRE:
+- Performance: 100
+- Accessibility: 85
+- Best Practices: 96
+- SEO: 82
+- Agentic Browsing: 2/2
+
