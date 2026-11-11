@@ -21,7 +21,7 @@ Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 
 ## CSS
 - [x] `box-sizing: border-box` är satt
-- [ ] Färger och avstånd kommer från variabler
+- [x] Färger och avstånd kommer från variabler
 - [ ] Inga oanvända eller felstavade klasser
 - [ ] Filerna är uppdelade och logiskt namngivna
 
