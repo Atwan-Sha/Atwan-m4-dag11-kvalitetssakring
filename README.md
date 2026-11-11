@@ -2,6 +2,8 @@
 
 *Modul 4, UI/UX & Frontendutveckling, Lexicon IT-Proffs*
 
+## Live-länk: https://atwan-sha.github.io/Atwan-m4-dag11-kvalitetssakring/
+
 ## Vad du ska göra idag
 
 Du granskar en sida som innehåller **tio avsiktliga fel** (HTML, tillgänglighet, CSS och responsivitet). Du hittar dem, rättar dem och dokumenterar varje fix i en commit.
