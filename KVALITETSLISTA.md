@@ -9,7 +9,7 @@ Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 - [x] Rubrikhierarkin hoppar inte (h1, h2, h3)
 - [x] Semantiska element används (header, nav, main, section, article, footer)
 - [x] Inga dubblerade `id`
-- [ ] Alla länkar går någonstans (testa dem)
+- [x] Alla länkar går någonstans (testa dem)
 
 ## Tillgänglighet
 - [x] Alla bilder har alt-text som beskriver bilden
@@ -22,27 +22,31 @@ Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 ## CSS
 - [x] `box-sizing: border-box` är satt
 - [x] Färger och avstånd kommer från variabler
-- [ ] Inga oanvända eller felstavade klasser
-- [ ] Filerna är uppdelade och logiskt namngivna
+- [x] Inga oanvända eller felstavade klasser
+- [x] Filerna är uppdelade och logiskt namngivna
 
 ## Responsivitet
-- [ ] Ingen horisontell scroll på 360 px
-- [ ] Fungerar på 360, 768 och 1280 px
-- [ ] Bilder och formulärfält anpassar sig
+- [x] Ingen horisontell scroll på 360 px
+- [x] Fungerar på 360, 768 och 1280 px
+- [x] Bilder och formulärfält anpassar sig
 
 ## Git och publicering
-- [ ] Commit per ändring, med begripliga meddelanden
-- [ ] Allt är pushat
+- [x] Commit per ändring, med begripliga meddelanden
+- [x] Allt är pushat
 - [ ] Live-sidan visar senaste versionen
 
-### Anteckningar
-- Validate ger fel på båda html-filerna
-- Lighthouse ger varning på tillgänglighet och SEO
-
+<br>
 #### Lighthouse-test FÖRE:
 - Performance: 100
 - Accessibility: 85
 - Best Practices: 96
 - SEO: 82
 - Agentic Browsing: 2/2
+
+#### Lighthouse-test EFTER:
+- Performance:
+- Accessibility: 
+- Best Practices: 
+- SEO: 
+- Agentic Browsing: 
 
