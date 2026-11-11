@@ -26,7 +26,11 @@
       <h2>Nybakat varje morgon</h2>
       <p>Hos oss bakas allt från grunden. Kom in för en bulle, en kopp kaffe och en stund för dig själv.</p>
       <a href="#meny" class="knapp">Se menyn</a>
-      <div class="knapp" onclick="alert('Hej!')">Prenumerera på nyhetsbrev</div>
+      <form class="form-nyhetsbrev">
+        <label for="email" class="visually-hidden">E-post</label>
+        <input type="email" id="email" name="email" placeholder="Skriv in din e-post" required>
+        <button type="submit" class="knapp">Prenumerera på nyhetsbrev</button>
+      </form>
     </section>
 
     <section id="meny">
