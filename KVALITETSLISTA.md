@@ -12,15 +12,15 @@ Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 - [ ] Alla länkar går någonstans (testa dem)
 
 ## Tillgänglighet
-- [ ] Alla bilder har alt-text som beskriver bilden
-- [ ] Alla formulärfält har en kopplad `label`
-- [ ] Alla knappar är `<button>` (inte `<div>`)
-- [ ] All text klarar kontrast 4,5:1
-- [ ] Du kan använda hela sidan med bara tangentbordet
-- [ ] Fokus syns alltid
+- [x] Alla bilder har alt-text som beskriver bilden
+- [x] Alla formulärfält har en kopplad `label`
+- [x] Alla knappar är `<button>` (inte `<div>`)
+- [x] All text klarar kontrast 4,5:1
+- [x] Du kan använda hela sidan med bara tangentbordet
+- [x] Fokus syns alltid
 
 ## CSS
-- [ ] `box-sizing: border-box` är satt
+- [x] `box-sizing: border-box` är satt
 - [ ] Färger och avstånd kommer från variabler
 - [ ] Inga oanvända eller felstavade klasser
 - [ ] Filerna är uppdelade och logiskt namngivna
