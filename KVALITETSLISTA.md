@@ -33,9 +33,9 @@ Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 ## Git och publicering
 - [x] Commit per ändring, med begripliga meddelanden
 - [x] Allt är pushat
-- [ ] Live-sidan visar senaste versionen
+- [x] Live-sidan visar senaste versionen
 
-<br>
+
 #### Lighthouse-test FÖRE:
 - Performance: 100
 - Accessibility: 85
@@ -44,9 +44,9 @@ Gå igenom listan uppifrån och ned. Kryssa av när du kontrollerat.
 - Agentic Browsing: 2/2
 
 #### Lighthouse-test EFTER:
-- Performance:
-- Accessibility: 
-- Best Practices: 
-- SEO: 
-- Agentic Browsing: 
+- Performance: 100
+- Accessibility: 100
+- Best Practices: 96
+- SEO: 91
+- Agentic Browsing: 2/2 
 
